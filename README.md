@@ -28,6 +28,6 @@ Features:
 `Recharts`
 
 
-- <a href="https://expense-tracker-psi-ten.vercel.app/" target="_blank">Click here for demo</a>
+- <a href="https://xexpensetracker-six.vercel.app/" target="_blank">Click here for demo</a>
 
 **Had fun building!** 🚀
